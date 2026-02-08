@@ -1,4 +1,4 @@
-## Customer Support Pojects
+## Customer Support Projects
 
 An AI-powered workflow designed to automatically handle customer inquiries via email in a sales context. The system generates context-aware responses based on internal guidelines and documents, such as delivery, privacy, and sales policies.
 

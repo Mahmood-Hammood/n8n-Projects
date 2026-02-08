@@ -4,15 +4,7 @@ How It Works:
 
 1- Detects new emails automatically.
 
-2- Classifies emails into:
-
-High Priority
-
-Customer Support
-
-Promotions
-
-Finance/Billing
+2- Classifies emails into: High Priority, Customer Support, Promotions and Finance/Billing
 
 3- Routes each email to the appropriate agent.
 

@@ -4,14 +4,26 @@ An AI-powered workflow designed to automatically handle customer inquiries via e
 
 # Features
 
-Automated Email Replies: Handles incoming customer emails without manual intervention.
+1- Automated Email Replies: Handles incoming customer emails without manual intervention.
 
-Context-Aware Responses: Uses internal documents and policies to generate accurate replies.
+2- Context-Aware Responses: Uses internal documents and policies to generate accurate replies.
 
-AI-Powered Workflow: Integrates LLMs, Retrieval-Augmented Generation (RAG), chunking, and embedding models for smarter responses.
+3- AI-Powered Workflow: Integrates LLMs, Retrieval-Augmented Generation (RAG), chunking, and embedding models for smarter responses.
 
 
+### Invoice Processing Project
 
+This workflow for automatically processing incoming invoices and extracting structured information. The system analyzes invoice contents using AI and updates a central Excel database with the extracted data. It can also automatically send emails summarizing the invoice information and confirming the data update.
+
+# Features
+
+1- Automated Invoice Processing: Handles incoming invoices without manual effort.
+
+2- AI-Powered Analysis: Extracts key invoice data accurately using AI.
+
+3- Database Updates: Updates a central Excel sheet with structured invoice information.
+
+4- Automated Notifications: Sends email summaries and confirmation messages after data processing.
 
 ## Routing Agent Project
 

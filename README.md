@@ -1,3 +1,15 @@
+#### Create Event Project
+
+An AI chat assistant that automatically handles incoming messages, finds contact addresses, schedules events, and sends emails.
+
+# How It Works
+
+1- Detects new chat messages.
+
+2- The AI Agent decides what to do using GPT-4.1-nano and memory.
+
+3- Performs tasks like: Looking up contact addresses in the database, creating calendar events and finally sending emails.
+
 ## Customer Support Projects
 
 An AI-powered workflow designed to automatically handle customer inquiries via email in a sales context. The system generates context-aware responses based on internal guidelines and documents, such as delivery, privacy, and sales policies.

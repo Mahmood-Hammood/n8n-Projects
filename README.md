@@ -1,4 +1,4 @@
-#### Create Event Project
+## Create Event Project
 
 An AI chat assistant that automatically handles incoming messages, finds contact addresses, schedules events, and sends emails.
 
